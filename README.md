@@ -4,7 +4,7 @@
 - 💞️ Procuro colaborar em participar das aulas
 - 📫 Como chegar até mim teixeira.gabriel31@escola.pr.gov.br
 - 😄 Pronomes 
-- ⚡ curiosidade: nenhuma
+- ⚡  Curiosidade: nenhuma
 
 <!---
 GabrielT31/GabrielT31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
