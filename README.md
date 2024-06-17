@@ -3,8 +3,8 @@
 - 🌱 Atualmente estou aprendendo htmlcssjavascript
 - 💞️ Procuro colaborar em participar das aulas
 - 📫 Como chegar até mim teixeira.gabriel31@escola.pr.gov.br
-- 😄 Pronomes 
-- ⚡  Curiosidade: nenhuma
+- 😄 Pronomes ele/dele
+- ⚡  Curiosidade: nunca rebolei errado pros cria
 
 <!---
 GabrielT31/GabrielT31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
